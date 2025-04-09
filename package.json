@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-xavier",
+  "version": "1.0.0",
+  "description": "Random String Message for Xavier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierPintoVas/random-str-msg-xavier.git"
+  },
+  "keywords": [],
+  "author": "Javier Pinto <javierpintovas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavierPintoVas/random-str-msg-xavier/issues"
+  },
+  "homepage": "https://github.com/JavierPintoVas/random-str-msg-xavier#readme",
+  "bin": {
+    "random-str-msg-xavier": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
